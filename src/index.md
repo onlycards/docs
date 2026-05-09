@@ -10,6 +10,9 @@ hero:
     alt: OnlyCards
   actions:
     - theme: alt
-      text: Документация
+      text: Что это такое
       link: /product/overview
+    - theme: brand
+      text: Быстрый старт
+      link: /guides/quick-start
 ---
