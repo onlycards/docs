@@ -1,0 +1,9 @@
+dist
+node_modules
+
+.idea
+.vscode
+.DS_Store
+.vitepress/cache
+
+package-lock.json
